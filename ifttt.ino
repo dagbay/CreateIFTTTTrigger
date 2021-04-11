@@ -1,5 +1,5 @@
-int photo_resistor = A1;
-int photo_resistor_power = A0;
+int photo_resistor = A0;
+int photo_resistor_power = A1;
 int led = D7;
 
 void setup() {
